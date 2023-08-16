@@ -4,4 +4,4 @@
 
 - To use write ``` npm install ``` in template directory
 
-[Buy me a coffee](https://www.buymeacoffee.com/valehism)
+[Buy me a coffee](https://www.buymeacoffee.com/valehismayilov)
